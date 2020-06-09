@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-connection-latency",
+  "version": "0.1.0-25",
+  "author": "Kevin Ennis",
+  "description": "A simple little Node.js app for assessing connection latency",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ksarvagya/nodejs-connectionLatency.git"
+  },
+  "engines": {
+    "node": "v0.6.7"
+  },
+  "dependencies": {
+    "node-static": "0.5.9"
+  },
+  "scripts": {
+    "start": "app/app.js"
+  }
+}
